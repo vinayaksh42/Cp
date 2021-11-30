@@ -1,0 +1,1 @@
+{"name":"Local: makeEven","url":"e:\\Cp\\Cp\\codeforces\\makeEven.cpp","tests":[{"id":1637851493043,"input":"4\n3876\n387\n4489\n3","output":"0\n2\n1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\Cp\\codeforces\\makeEven.cpp","group":"local","local":true}
